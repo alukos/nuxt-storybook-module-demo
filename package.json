@@ -13,16 +13,16 @@
   "devDependencies": {
     "@nuxt/devtools": "latest",
     "@nuxtjs/storybook": "7.0.0",
-    "nuxt": "3.6.5",
-    "storybook": "7.5.0-alpha.3",
-    "@storybook-vue/nuxt": "0.1.7",
-    "@storybook/addon-essentials": "7.5.0-alpha.3",
-    "@storybook/addon-interactions": "7.5.0-alpha.3",
-    "@storybook/addon-links": "7.5.0-alpha.3",
-    "@storybook/blocks": "7.5.0-alpha.3",
-    "@storybook/builder-vite": "7.5.0-alpha.3",
+    "nuxt": "^3.8.2",
+    "storybook": "^7.6.3",
+    "@storybook-vue/nuxt": "^0.1.9",
+    "@storybook/addon-essentials": "^7.6.3",
+    "@storybook/addon-interactions": "^7.6.3",
+    "@storybook/addon-links": "^7.6.3",
+    "@storybook/blocks": "^7.6.3",
+    "@storybook/builder-vite": "^7.6.3",
     "@storybook/testing-library": "^0.2.0",
-    "@storybook/vue3": "7.5.0-alpha.3",
+    "@storybook/vue3": "^7.6.3",
     "@types/node": "^18.17.5",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
@@ -35,3 +35,4 @@
     }
   }
 }
+
